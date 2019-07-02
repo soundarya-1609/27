@@ -1,5 +1,5 @@
-che=input()
-if che.isdigit():
+charas=input()
+if charas.isdigit():
  print("Yes")
 else:
  print("No")
